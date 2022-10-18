@@ -14,3 +14,7 @@
  papermill local/input.ipynb s3://bkt/output.ipynb -p alpha 0.6 -p l1_ratio 0.1
 
  pip freeze > requirements.txt
+
+ pip install scrapy-playwright
+ playwright install
+ https://scrapeops.io/python-scrapy-playbook/scrapy-javascript-rendering-guide/
