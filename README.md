@@ -22,3 +22,4 @@
  https://chromedriver.chromium.org/downloads
  https://scrapeops.io/python-scrapy-playbook/scrapy-javascript-rendering-guide/
  https://scrapeops.io/python-scrapy-playbook/scrapy-selenium/
+ https://towardsdatascience.com/a-friendly-introduction-to-text-clustering-fa996bcefd04
