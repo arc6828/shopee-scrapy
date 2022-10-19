@@ -17,4 +17,8 @@
 
  pip install scrapy-playwright
  playwright install
+
+ pip install scrapy-selenium
+ https://chromedriver.chromium.org/downloads
  https://scrapeops.io/python-scrapy-playbook/scrapy-javascript-rendering-guide/
+ https://scrapeops.io/python-scrapy-playbook/scrapy-selenium/

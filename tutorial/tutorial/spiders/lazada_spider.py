@@ -5,13 +5,12 @@ class LazadaSpider(scrapy.Spider):
     name = "lazada"
     #scrapy crawl lazada -O lazada.json
 
-    crawling = False    
+    crawling = True    
     export_html = False
 
     def start_requests(self):
         start_urls = [
             'https://www.lazada.co.th/shop-mobiles/',
-            "https://www.lazada.co.th/shop-mobiles/?page=21",
         ]
         # url = "https://www.lazada.co.th/shop-mobiles/?page=21"
         # yield scrapy.Request(url, callback=self.parse)
